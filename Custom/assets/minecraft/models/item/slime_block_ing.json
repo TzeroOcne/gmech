@@ -1,0 +1,9 @@
+{
+	"parent": "block/slime_block",
+	"display": {
+		"head": {
+			"translation": [0, -39, 0],
+			"scale": [0.6, 0.6, 0.6]
+		}
+	}
+}
